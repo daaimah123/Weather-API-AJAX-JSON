@@ -17,3 +17,12 @@ The error message can be anything you want; no need to reproduce the error messa
 3. Create a Promise that changes the background color of your page after the AJAX request is complete.
 You do not need to use the new Promise syntax. You can simply chain your functionality onto the end.
 This should happen even if your AJAX request errored out.
+
+
+API called and returning error
+![Screen Shot 2019-04-03 at 9 59 40 AM](https://user-images.githubusercontent.com/41805952/55499163-3328af00-55fa-11e9-9d05-16a53b07702a.png)
+
+
+
+API called successfully outputting info
+![Screen Shot 2019-04-03 at 9 59 15 AM](https://user-images.githubusercontent.com/41805952/55499167-358b0900-55fa-11e9-9877-d2c26af8254d.png)
